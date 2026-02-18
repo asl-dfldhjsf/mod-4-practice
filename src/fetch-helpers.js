@@ -1,4 +1,7 @@
-import { fetchData } from "./fetchData.js";
+import { fetchData } from "./fetchData";
+
+//fetch single item code would go here
+
 
  // get many things fetch
 const fetchCollection = await fetchData('https://pokeapi.co/api/v2/pokemon?limit=10');
