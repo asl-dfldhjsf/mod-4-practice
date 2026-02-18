@@ -1,8 +1,14 @@
 import './style.css'
 
 const main = () => {
-  document.body.innerHTML = '
-  
-  
-  '
+  document.body.innerHTML = `
+  <main>
+    <section>
+    </section>
+    <section>
+    </section>
+    <section>
+    </section>
+  </main>
+  `
 }
